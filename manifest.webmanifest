@@ -1,0 +1,11 @@
+{
+  "name": "Một dải ngân hà dành cho em",
+  "short_name": "Dải ngân hà",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#03040b",
+  "theme_color": "#090b1d",
+  "lang": "vi",
+  "description": "Một góc nhỏ của dải ngân hà, dành riêng cho em."
+}
+
