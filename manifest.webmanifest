@@ -1,11 +1,11 @@
 {
-  "name": "Thiệp sinh nhật dành cho Linh",
-  "short_name": "Sinh nhật Linh",
+  "name": "Thiệp sinh nhật dành cho Đỗ Thị Thùy Linh",
+  "short_name": "Sinh nhật Thùy Linh",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#fff4f7",
   "theme_color": "#fff2f7",
   "lang": "vi",
-  "description": "Một chiếc thiệp sinh nhật thật dễ thương dành riêng cho Linh."
+  "description": "Một lời chúc nhỏ dành riêng cho Đỗ Thị Thùy Linh."
 }
 
