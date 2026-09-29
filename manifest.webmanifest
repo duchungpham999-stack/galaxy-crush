@@ -1,11 +1,11 @@
 {
-  "name": "Một dải ngân hà dành cho em",
-  "short_name": "Dải ngân hà",
+  "name": "Thiệp sinh nhật dành cho Linh",
+  "short_name": "Sinh nhật Linh",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#03040b",
-  "theme_color": "#090b1d",
+  "background_color": "#fff4f7",
+  "theme_color": "#fff2f7",
   "lang": "vi",
-  "description": "Một góc nhỏ của dải ngân hà, dành riêng cho em."
+  "description": "Một chiếc thiệp sinh nhật thật dễ thương dành riêng cho Linh."
 }
 
